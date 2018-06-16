@@ -1,5 +1,7 @@
 (deftheme elza
-  "Emacs port made by Auralcat (not the original author). Created 2018-06-16.")
+  "Author: Pedro Maciel - @pedrozath
+   Emacs port: Miriam Retka - @Auralcat
+   Created 2018-06-16.")
 
 (custom-theme-set-faces
  'elza
